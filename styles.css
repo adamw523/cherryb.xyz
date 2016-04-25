@@ -1,0 +1,14 @@
+body {
+  background-color: 533f7f;
+}
+
+div.cherry {
+  margin-top: 100;
+}
+
+img.cherry {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

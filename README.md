@@ -1,3 +1,3 @@
 # cherryb.xyz
 
-Source for the [cherryb.xyz](cherryb.xyz) site.
+Source for the [cherryb.xyz](http://cherryb.xyz) site.
